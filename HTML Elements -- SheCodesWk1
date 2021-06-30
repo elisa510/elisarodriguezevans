@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang = "eng">
+
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" , initial-scale="1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+			<HW Week 1 Basics>
+  <style>
+				
+			h1  {
+					text-align: left;
+					font-family: times;
+					color: #8000ff;
+				  }
+
+			h2  {
+					text-align: left;
+					font-family: times;
+					color: #000000;
+				  }
+
+			h3  {
+					text-align: left;
+					font-family: times;
+					color: #000000;
+				  }
+  </style>
+</head>
+
+	<h1> She Codes </h1>
+		<ul>
+			<h2>
+				<li>
+					Coders
+				</li>
+
+				<li>
+					Courses
+				</li>
+
+				<li>
+					Stories
+				</li>
+			</h2>
+		</ul>
+
+
+  <br />
+  <hr />
+	
+<strong>
+	<h3>
+	<p>More info</p>
+	</h3>	
+</strong>
+
+</html>
